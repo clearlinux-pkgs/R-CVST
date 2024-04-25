@@ -4,7 +4,7 @@
 #
 Name     : R-CVST
 Version  : 0.2.3
-Release  : 52
+Release  : 53
 URL      : https://cran.r-project.org/src/contrib/CVST_0.2-3.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/CVST_0.2-3.tar.gz
 Summary  : Fast Cross-Validation via Sequential Testing
